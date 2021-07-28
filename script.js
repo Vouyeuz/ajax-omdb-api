@@ -81,3 +81,6 @@ function showMovieDetail(m) {
                 </div>
             </div>`;
 }
+
+// fetch("http://www.omdbapi.com/?apikey=84d8c1bd&s=harry potter").then(response => response.json()).then(response => console.log(response));
+
